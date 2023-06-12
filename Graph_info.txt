@@ -1,0 +1,13 @@
+#A is connected to #B with len &1
+#A is connected to #D with len &1
+#B is connected to #C with len &1
+#D is connected to #C with len &1
+#C is connected to #I with len &1
+#C is connected to #J with len &1
+#B is connected to #E with len &1
+#B is connected to #G with len &1
+#B is connected to #H with len &1
+#E is connected to #F with len &1
+#E is connected to #G with len &1
+#E is connected to #H with len &1
+#G is connected to #H with len &1
